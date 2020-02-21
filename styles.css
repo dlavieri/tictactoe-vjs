@@ -1,0 +1,18 @@
+table {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+}
+
+tr {
+    width: 150px;
+    height: 50px;
+}
+
+td {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+}
